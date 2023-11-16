@@ -19,5 +19,6 @@ Python running on a Windows OS.
 <img src="https://github.com/ImBlessedBO/MyProjects/assets/137216017/ea2c34d3-a8af-478d-a5c3-735d7728b29d" width="500" height="420">
 
 **MOBILE ROBOT IN ACTION**
+
 <img src="https://github.com/ImBlessedBO/MyProjects/assets/137216017/e2272d70-bfb8-42c1-89fd-3a869034a0af" width="500" height="420">
 
